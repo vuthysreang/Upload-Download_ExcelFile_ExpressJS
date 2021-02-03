@@ -32,4 +32,4 @@ npm run dev
 
 ## ✔API Route
 
-![API_Routes](img/API_Routes.PNG)
+![API_Routes](img/api_routes.PNG)
